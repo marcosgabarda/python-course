@@ -7,7 +7,7 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-ipython = "^7.23.1"
+ipython = "^8.10.0"
 jupyter = "^1.0.0"
 numpy = "^1.20.3"
 pandas = "^1.2.4"
